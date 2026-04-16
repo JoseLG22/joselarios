@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604160919352POP7S</value>
+    <value>202604160936518X8FM9</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260416091935RLVWL2</value>
+    <value>20260416093651GFLGH1</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -277,9 +277,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><br /></p>
-<p><img src="asset://3f7cc16d-4e92-bc25-f19d-5673f82e7053.png" width="1440" height="2037" alt="" /><br /></p>
+<p><img src="{{context_path}}/content/resources/JOSÉ LARIOS.png" width="1440" height="2037" alt="" /><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775810279649-zvpsax9cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración: 1 sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento: Parejas","textTextarea":"<p><br /></p>\n<p><img src=\"asset://3f7cc16d-4e92-bc25-f19d-5673f82e7053.png\" width=\"1440\" height=\"2037\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775810279649-zvpsax9cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración: 1 sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento: Parejas","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/JOSÉ LARIOS.png\" width=\"1440\" height=\"2037\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -690,9 +690,9 @@
           <odeIdeviceId>idevice-1776198006429-nnj8edt2v</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><embed width="600" height="300" src="asset://3bb7785b-52c1-5e51-f38b-c67eb04f0415.pdf" type="application/pdf"></embed></p>
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/6.1. CRITERIOS DE EVALUACIÓN.pdf" type="application/pdf"></embed></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776198006429-nnj8edt2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"asset://3bb7785b-52c1-5e51-f38b-c67eb04f0415.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776198006429-nnj8edt2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/6.1. CRITERIOS DE EVALUACIÓN.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
