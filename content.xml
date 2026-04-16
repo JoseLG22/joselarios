@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604160919352POP7S</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260416091935RLVWL2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Jose Larios</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Producto FINAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>José Larios</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776195872619</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnx59bgt-iu2gppa81</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>S.A. NUESTRO MEJOR INGREDIENTE: EL COLOR</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>S.A. NUESTRO MEJOR INGREDIENTE: EL COLOR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>S.A. NUESTRO MEJOR INGREDIENTE: EL COLOR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>S.A. NUESTRO MEJOR INGREDIENTE: EL COLOR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnx59bgt-iu2gppa81</odePageId>
+      <odeBlockId>block-1775979334905-ibtctvj2t</odeBlockId>
+      <blockName>S.A. NUESTRO MEJOR INGREDIENTE: EL COLOR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnx59bgt-iu2gppa81</odePageId>
+          <odeBlockId>block-1775979334905-ibtctvj2t</odeBlockId>
+          <odeIdeviceId>idevice-1775979334899-s32nintdq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="background-color: #f1c40f;"><strong>CENTRO: </strong>IES SIERRA BERMEJA, Málaga.</span></p>
+<p><span style="background-color: #3598db;"><strong>NIVEL: </strong>3º ESO.</span></p>
+<p><span style="background-color: #f509bd;"><strong>TEMPORALIZACIÓN:</strong> 2ª EVALUACIÓN </span>(aproximadamente una semana antes de la semana blanca).</p>
+<p><strong><span style="background-color: #f1c40f;">MATERIA:</span></strong> Educación, Plástica, Visual y Audiovisual.</p>
+<p><strong><span style="background-color: #3598db;">IDIOMA:</span> </strong>Español.</p>
+<p><strong><span style="background-color: #f509bd;">DESCRIPCIÓN: </span></strong></p>
+<p>Esta situación de aprendizaje está dirigida al alumnado de 3º de Educación Secundaria Obligatoria en la materia de Educación Plástica, Visual y Audiovisual (EPV) y se centra en el estudio y la aplicación expresiva del color como elemento fundamental del lenguaje visual. La propuesta culmina con la realización de un mural colaborativo dedicado a figuras representativa de la cultura del flamenco, con el objetivo de conectar los contenidos artísticos con el patrimonio cultural cercano a nuestro entorno.</p>
+<p>A través de esta situación de aprendizaje, tendrás la oportunidad de analizar cómo el color puede transmitir emociones, identidad y significado cultural, elementos presentes tanto en las artes visuales como en el propio lenguaje del flamenco.</p>
+<p>Durante el desarrollo de la actividad, vais a explorar conceptos relacionados con la teoría del color, como:</p>
+<p>* el círculo cromático.</p>
+<p><br />* los colores primarios, secundarios y complementarios.</p>
+<p><br />* los contrastes cromáticos.</p>
+<p><br />* la expresividad del color en la imagen.</p>
+<p><br />Estos contenidos se trabajarán mediante actividades de experimentación plástica, análisis de referentes visuales y pequeñas prácticas previas que te van a permitir comprender cómo el color influye en la percepción de las imágenes.</p>
+<p>El proyecto culminará con la creación de un mural colectivo dedicado a una figura relevante de la cultura flamenca, como por ejemplo Camarón de la Isla o Paco de Lucía. El mural será elaborado de forma cooperativa, de manera que cada grupo de alumnos se encargará de diseñar y pintar una parte de la composición general, aplicando los conocimientos sobre el color trabajados previamente.</p>
+<p>Desde el punto de vista metodológico, la situación de aprendizaje se plantea a partir de metodologías activas, especialmente el aprendizaje basado en proyectos y el trabajo cooperativo. El alumnado participará en todas las fases del proceso artístico: investigación, planificación, bocetado, selección cromática y ejecución final del mural. Este enfoque permite que los estudiantes desarrollen habilidades relacionadas con la creatividad, la toma de decisiones, la colaboración y la resolución de problemas visuales.</p>
+<p>Además de los contenidos artísticos, esta actividad favorece la conexión entre la educación artística y el contexto cultural del entorno, fomentando el respeto y la valoración de las manifestaciones culturales propias. A través de la representación visual de un personaje del flamenco, los participantes reflexionarán sobre la relación entre arte, identidad y cultura, comprendiendo que el lenguaje visual puede ser una herramienta para comunicar valores, emociones y referencias culturales.</p>
+<p>En definitiva, esta situación de aprendizaje busca que el alumnado no solo adquiera conocimientos sobre el color, sino que también experimente el proceso de creación colectiva de una obra artística de gran formato, desarrollando su capacidad expresiva, su sensibilidad estética y su conciencia cultural mediante la realización de un mural que combine aprendizaje artístico y patrimonio cultural.</p>
+<p><br /><strong><span style="background-color: #f1c40f;">JUSTIFICACIÓN:</span></strong></p>
+<p>Esta situación de aprendizaje tiene como finalidad que el alumnado de 3º de ESO en la materia de Educación Plástica, Visual y Audiovisual comprenda y experimente el color como elemento fundamental del lenguaje visual, desarrollando su capacidad de expresión artística y su creatividad. A través del estudio del círculo cromático, los contrastes y las combinaciones de color, el alumnado aprenderá a utilizar el color de manera consciente para transmitir sensaciones y significados en sus producciones visuales.</p>
+<p>La propuesta se vincula además con el contexto cultural cercano, tomando como referencia la cultura del flamenco, una manifestación artística de gran relevancia reconocida como Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Este enfoque permite conectar los contenidos artísticos con el patrimonio cultural del entorno, favoreciendo un aprendizaje más significativo y cercano a la realidad del alumnado.</p>
+<p>El proyecto culmina con la creación de un mural colaborativo dedicado a una figura representativa del flamenco. A través de esta actividad, el alumnado aplicará los conocimientos adquiridos sobre el color en una obra colectiva, desarrollando al mismo tiempo habilidades de cooperación, planificación y participación activa.</p>
+<p>En definitiva, esta situación de aprendizaje permite integrar contenidos artísticos, cultura y trabajo colaborativo, fomentando la creatividad del alumnado y su valoración del arte como medio de expresión y como parte del patrimonio cultural.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775979334899-s32nintdq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"background-color: #f1c40f;\"><strong>CENTRO: </strong>IES SIERRA BERMEJA, Málaga.</span></p>\n<p><span style=\"background-color: #3598db;\"><strong>NIVEL: </strong>3º ESO.</span></p>\n<p><span style=\"background-color: #f509bd;\"><strong>TEMPORALIZACIÓN:</strong> 2ª EVALUACIÓN </span>(aproximadamente una semana antes de la semana blanca).</p>\n<p><strong><span style=\"background-color: #f1c40f;\">MATERIA:</span></strong> Educación, Plástica, Visual y Audiovisual.</p>\n<p><strong><span style=\"background-color: #3598db;\">IDIOMA:</span> </strong>Español.</p>\n<p><strong><span style=\"background-color: #f509bd;\">DESCRIPCIÓN: </span></strong></p>\n<p>Esta situación de aprendizaje está dirigida al alumnado de 3º de Educación Secundaria Obligatoria en la materia de Educación Plástica, Visual y Audiovisual (EPV) y se centra en el estudio y la aplicación expresiva del color como elemento fundamental del lenguaje visual. La propuesta culmina con la realización de un mural colaborativo dedicado a figuras representativa de la cultura del flamenco, con el objetivo de conectar los contenidos artísticos con el patrimonio cultural cercano a nuestro entorno.</p>\n<p>A través de esta situación de aprendizaje, tendrás la oportunidad de analizar cómo el color puede transmitir emociones, identidad y significado cultural, elementos presentes tanto en las artes visuales como en el propio lenguaje del flamenco.</p>\n<p>Durante el desarrollo de la actividad, vais a explorar conceptos relacionados con la teoría del color, como:</p>\n<p>* el círculo cromático.</p>\n<p><br />* los colores primarios, secundarios y complementarios.</p>\n<p><br />* los contrastes cromáticos.</p>\n<p><br />* la expresividad del color en la imagen.</p>\n<p><br />Estos contenidos se trabajarán mediante actividades de experimentación plástica, análisis de referentes visuales y pequeñas prácticas previas que te van a permitir comprender cómo el color influye en la percepción de las imágenes.</p>\n<p>El proyecto culminará con la creación de un mural colectivo dedicado a una figura relevante de la cultura flamenca, como por ejemplo Camarón de la Isla o Paco de Lucía. El mural será elaborado de forma cooperativa, de manera que cada grupo de alumnos se encargará de diseñar y pintar una parte de la composición general, aplicando los conocimientos sobre el color trabajados previamente.</p>\n<p>Desde el punto de vista metodológico, la situación de aprendizaje se plantea a partir de metodologías activas, especialmente el aprendizaje basado en proyectos y el trabajo cooperativo. El alumnado participará en todas las fases del proceso artístico: investigación, planificación, bocetado, selección cromática y ejecución final del mural. Este enfoque permite que los estudiantes desarrollen habilidades relacionadas con la creatividad, la toma de decisiones, la colaboración y la resolución de problemas visuales.</p>\n<p>Además de los contenidos artísticos, esta actividad favorece la conexión entre la educación artística y el contexto cultural del entorno, fomentando el respeto y la valoración de las manifestaciones culturales propias. A través de la representación visual de un personaje del flamenco, los participantes reflexionarán sobre la relación entre arte, identidad y cultura, comprendiendo que el lenguaje visual puede ser una herramienta para comunicar valores, emociones y referencias culturales.</p>\n<p>En definitiva, esta situación de aprendizaje busca que el alumnado no solo adquiera conocimientos sobre el color, sino que también experimente el proceso de creación colectiva de una obra artística de gran formato, desarrollando su capacidad expresiva, su sensibilidad estética y su conciencia cultural mediante la realización de un mural que combine aprendizaje artístico y patrimonio cultural.</p>\n<p><br /><strong><span style=\"background-color: #f1c40f;\">JUSTIFICACIÓN:</span></strong></p>\n<p>Esta situación de aprendizaje tiene como finalidad que el alumnado de 3º de ESO en la materia de Educación Plástica, Visual y Audiovisual comprenda y experimente el color como elemento fundamental del lenguaje visual, desarrollando su capacidad de expresión artística y su creatividad. A través del estudio del círculo cromático, los contrastes y las combinaciones de color, el alumnado aprenderá a utilizar el color de manera consciente para transmitir sensaciones y significados en sus producciones visuales.</p>\n<p>La propuesta se vincula además con el contexto cultural cercano, tomando como referencia la cultura del flamenco, una manifestación artística de gran relevancia reconocida como Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Este enfoque permite conectar los contenidos artísticos con el patrimonio cultural del entorno, favoreciendo un aprendizaje más significativo y cercano a la realidad del alumnado.</p>\n<p>El proyecto culmina con la creación de un mural colaborativo dedicado a una figura representativa del flamenco. A través de esta actividad, el alumnado aplicará los conocimientos adquiridos sobre el color en una obra colectiva, desarrollando al mismo tiempo habilidades de cooperación, planificación y participación activa.</p>\n<p>En definitiva, esta situación de aprendizaje permite integrar contenidos artísticos, cultura y trabajo colaborativo, fomentando la creatividad del alumnado y su valoración del arte como medio de expresión y como parte del patrimonio cultural.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnx59bgv-mu1kkghgj</odePageId>
+  <odeParentPageId>page-mnx59bgt-iu2gppa81</odeParentPageId>
+  <pageName>sobre protección de datos personales y derechos digitales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>sobre protección de datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>sobre protección de datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>sobre protección de datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnx59bgv-mu1kkghgj</odePageId>
+      <odeBlockId>block-1775810279653-xi3e453gp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnx59bgv-mu1kkghgj</odePageId>
+          <odeBlockId>block-1775810279653-xi3e453gp</odeBlockId>
+          <odeIdeviceId>idevice-1775810279649-zvpsax9cj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="asset://3f7cc16d-4e92-bc25-f19d-5673f82e7053.png" width="1440" height="2037" alt="" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775810279649-zvpsax9cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración: 1 sesión","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento: Parejas","textTextarea":"<p><br /></p>\n<p><img src=\"asset://3f7cc16d-4e92-bc25-f19d-5673f82e7053.png\" width=\"1440\" height=\"2037\" alt=\"\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776082258185-hc24sxc9k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a hacer?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a hacer?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776082258185-hc24sxc9k</odePageId>
+      <odeBlockId>block-1776082264026-r8a44lwf6</odeBlockId>
+      <blockName>“Flamenco Pop”: uso de herramientas digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776082258185-hc24sxc9k</odePageId>
+          <odeBlockId>block-1776082264026-r8a44lwf6</odeBlockId>
+          <odeIdeviceId>idevice-1776082264021-4zw98spa3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos y bienvenidas al nuevo proyecto que vamos a desarrollar en EPV_3. A lo largo de las próximas semanas, vamos a trabajar de forma activa y participativa en una propuesta que nos permitirá aprender no solo contenidos de la materia, sino también desarrollar habilidades como la investigación, el trabajo en equipo, la creatividad y la comunicación.</p>
+<p>Este proyecto está organizado en varias partes, cada una la trabajaremos con unas herramientas en concreto:</p>
+<p><br /></p>
+<p><strong>Herramienta 1: IbisPaint</strong></p>
+<p>El alumnado debe realizar un retrato de estilo Pop Art tomando como referencia uno de los rostros más conocidos de la cultura del flamenco. Para ello utilizaremos la aplicación IbisPaint, con la que reinterpretar la imagen seleccionada mediante el uso de colores intensos, contrastes marcados y contornos definidos, características propias de este movimiento artístico.</p>
+<p>La elección de IbisPaint se justifica por la versatilidad de sus herramientas de dibujo digital, como el uso de capas, pinceles variados y opciones de edición de color, que facilitan la experimentación y la creación artística. Además, se trata de una aplicación gratuita y disponible en los dispositivos del centro educativo, lo que permite su uso de forma accesible en el aula.</p>
+<p>Por otro lado, su interfaz intuitiva la hace adecuada para la edad y las características del alumnado, permitiendo que puedan iniciarse en el dibujo digital de forma sencilla. De este modo, la actividad no solo favorece la creatividad y el conocimiento de la cultura del flamenco, sino que también contribuye al desarrollo de la competencia digital del alumnado.</p>
+<p><strong>Herramienta 2: Prezi</strong></p>
+<p>El alumnado debe utilizar la herramienta web Prezi para realizar una exposición conjunta de los retratos de estilo Pop Art que han creado previamente. A través de esta presentación compartida se recopilarán todos los retratos realizados, lo que permitirá visualizar de manera global los distintos resultados obtenidos por el grupo. Esta puesta en común facilitará la comparación de estilos, colores y composiciones, y servirá como punto de partida para decidir la organización y composición del mural colaborativo final.</p>
+<p>La elección de Prezi se justifica por la versatilidad de la herramienta, ya que permite integrar imágenes de forma dinámica y visualizar el contenido de manera global y conectada. Su formato facilita observar todas las producciones del alumnado dentro de una misma presentación, favoreciendo la reflexión conjunta y el debate sobre las posibles combinaciones para el mural.</p>
+<p>Además, se trata de una plataforma accesible a través de la web y disponible en los dispositivos del centro educativo, lo que facilita su utilización en el aula sin necesidad de instalar programas adicionales. Su interfaz visual e intuitiva resulta adecuada para la edad y las características del alumnado, permitiendo que participen activamente en la organización y presentación de sus trabajos mientras desarrollan su competencia digital y habilidades de trabajo colaborativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776082264021-4zw98spa3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos y bienvenidas al nuevo proyecto que vamos a desarrollar en EPV_3. A lo largo de las próximas semanas, vamos a trabajar de forma activa y participativa en una propuesta que nos permitirá aprender no solo contenidos de la materia, sino también desarrollar habilidades como la investigación, el trabajo en equipo, la creatividad y la comunicación.</p>\n<p>Este proyecto está organizado en varias partes, cada una la trabajaremos con unas herramientas en concreto:</p>\n<p><br /></p>\n<p><strong>Herramienta 1: IbisPaint</strong></p>\n<p>El alumnado debe realizar un retrato de estilo Pop Art tomando como referencia uno de los rostros más conocidos de la cultura del flamenco. Para ello utilizaremos la aplicación IbisPaint, con la que reinterpretar la imagen seleccionada mediante el uso de colores intensos, contrastes marcados y contornos definidos, características propias de este movimiento artístico.</p>\n<p>La elección de IbisPaint se justifica por la versatilidad de sus herramientas de dibujo digital, como el uso de capas, pinceles variados y opciones de edición de color, que facilitan la experimentación y la creación artística. Además, se trata de una aplicación gratuita y disponible en los dispositivos del centro educativo, lo que permite su uso de forma accesible en el aula.</p>\n<p>Por otro lado, su interfaz intuitiva la hace adecuada para la edad y las características del alumnado, permitiendo que puedan iniciarse en el dibujo digital de forma sencilla. De este modo, la actividad no solo favorece la creatividad y el conocimiento de la cultura del flamenco, sino que también contribuye al desarrollo de la competencia digital del alumnado.</p>\n<p><strong>Herramienta 2: Prezi</strong></p>\n<p>El alumnado debe utilizar la herramienta web Prezi para realizar una exposición conjunta de los retratos de estilo Pop Art que han creado previamente. A través de esta presentación compartida se recopilarán todos los retratos realizados, lo que permitirá visualizar de manera global los distintos resultados obtenidos por el grupo. Esta puesta en común facilitará la comparación de estilos, colores y composiciones, y servirá como punto de partida para decidir la organización y composición del mural colaborativo final.</p>\n<p>La elección de Prezi se justifica por la versatilidad de la herramienta, ya que permite integrar imágenes de forma dinámica y visualizar el contenido de manera global y conectada. Su formato facilita observar todas las producciones del alumnado dentro de una misma presentación, favoreciendo la reflexión conjunta y el debate sobre las posibles combinaciones para el mural.</p>\n<p>Además, se trata de una plataforma accesible a través de la web y disponible en los dispositivos del centro educativo, lo que facilita su utilización en el aula sin necesidad de instalar programas adicionales. Su interfaz visual e intuitiva resulta adecuada para la edad y las características del alumnado, permitiendo que participen activamente en la organización y presentación de sus trabajos mientras desarrollan su competencia digital y habilidades de trabajo colaborativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776082652127-db5s5d0gl</odePageId>
+  <odeParentPageId>page-1776082258185-hc24sxc9k</odeParentPageId>
+  <pageName>Enlaces de interés</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Enlaces de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Enlaces de interés</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776082652127-db5s5d0gl</odePageId>
+      <odeBlockId>block-1776082657414-irjk1r4zm</odeBlockId>
+      <blockName>Para el ALUMNADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776082652127-db5s5d0gl</odePageId>
+          <odeBlockId>block-1776082657414-irjk1r4zm</odeBlockId>
+          <odeIdeviceId>idevice-1776082657410-tmg8m0eq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAABhtHJz8AA42ADtA4Sw==" title="Pincha Aquí" target="_blank" rel="noopener">https://www.symbaloo.com/shared/AAAABhtHJz8AA42ADtA4Sw==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776082657410-tmg8m0eq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAABhtHJz8AA42ADtA4Sw==\" title=\"Pincha Aquí\" target=\"_blank\" rel=\"noopener\">https://www.symbaloo.com/shared/AAAABhtHJz8AA42ADtA4Sw==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776082652127-db5s5d0gl</odePageId>
+      <odeBlockId>block-1776082754939-herd6av23</odeBlockId>
+      <blockName>Para el DOCENTE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776082652127-db5s5d0gl</odePageId>
+          <odeBlockId>block-1776082754939-herd6av23</odeBlockId>
+          <odeIdeviceId>idevice-1776082754936-9b3ialfvm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/jlargar22/cositas-4ye2fkkffupchxzt" title="Pincha Aquí" target="_blank" rel="noopener">https://padlet.com/jlargar22/cositas-4ye2fkkffupchxzt</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776082754936-9b3ialfvm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/jlargar22/cositas-4ye2fkkffupchxzt\" title=\"Pincha Aquí\" target=\"_blank\" rel=\"noopener\">https://padlet.com/jlargar22/cositas-4ye2fkkffupchxzt</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776083001408-t2hii5irs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cuándo lo vamos a hacer?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cuándo lo vamos a hacer?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cuándo lo vamos a hacer?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776083001408-t2hii5irs</odePageId>
+      <odeBlockId>block-1776154424913-xyagi7nr6</odeBlockId>
+      <blockName>LÍNEA DEL TIEMPO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776083001408-t2hii5irs</odePageId>
+          <odeBlockId>block-1776154424913-xyagi7nr6</odeBlockId>
+          <odeIdeviceId>idevice-1776154424909-1hb5wf4dg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/jbxtewpmbdj0lx8" title="">LÍNEA DEL TIEMPO</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776154424909-1hb5wf4dg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/jbxtewpmbdj0lx8\" title=\"\">LÍNEA DEL TIEMPO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776154746598-1mwb97or0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776154746598-1mwb97or0</odePageId>
+      <odeBlockId>block-1776154974761-n8xoneh9j</odeBlockId>
+      <blockName>Criterios de EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776154746598-1mwb97or0</odePageId>
+          <odeBlockId>block-1776154974761-n8xoneh9j</odeBlockId>
+          <odeIdeviceId>idevice-1776154974758-sl46tsl4j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1CA2j5ruFMUgUQm6FZG3TzhsAoRRgyAvj/view?usp=sharing" title="">TABLA DE CRITERIOS</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776154974758-sl46tsl4j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1CA2j5ruFMUgUQm6FZG3TzhsAoRRgyAvj/view?usp=sharing\" title=\"\">TABLA DE CRITERIOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776154746598-1mwb97or0</odePageId>
+      <odeBlockId>block-1776155185914-1rqilmvu6</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776154746598-1mwb97or0</odePageId>
+          <odeBlockId>block-1776155185914-1rqilmvu6</odeBlockId>
+          <odeIdeviceId>idevice-1776155185912-xuwt4pf2d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1X0-4mePm0WaXIYYONtmO8QYzlm7e-V4l/view?usp=sharing" title="">RETRATO</a> con Colores Complementarios</p>
+<p><a href="https://drive.google.com/file/d/1_7yNx2NdXV_l09kKpRLCqnBvLoASA-AG/view?usp=sharing" title="">MURAL</a>: Flamenco Pop</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776155185912-xuwt4pf2d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1X0-4mePm0WaXIYYONtmO8QYzlm7e-V4l/view?usp=sharing\" title=\"\">RETRATO</a> con Colores Complementarios</p>\n<p><a href=\"https://drive.google.com/file/d/1_7yNx2NdXV_l09kKpRLCqnBvLoASA-AG/view?usp=sharing\" title=\"\">MURAL</a>: Flamenco Pop</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776197226239-m997xbdzu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776197226239-m997xbdzu</odePageId>
+      <odeBlockId>block-1776198006432-ypfpablt5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776197226239-m997xbdzu</odePageId>
+          <odeBlockId>block-1776198006432-ypfpablt5</odeBlockId>
+          <odeIdeviceId>idevice-1776198006429-nnj8edt2v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="asset://3bb7785b-52c1-5e51-f38b-c67eb04f0415.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776198006429-nnj8edt2v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"asset://3bb7785b-52c1-5e51-f38b-c67eb04f0415.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776195992592-8wmblqec9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776195992592-8wmblqec9</odePageId>
+      <odeBlockId>block-1776196943991-xw40jfw1c</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776195992592-8wmblqec9</odePageId>
+          <odeBlockId>block-1776196943991-xw40jfw1c</odeBlockId>
+          <odeIdeviceId>idevice-1776196943990-e09vadinx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Jose Larios</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">
+<p>Esta situación de aprendizaje, dirigida a alumnado de 3º de ESO en Educación Plástica, Visual y Audiovisual, se centra en el estudio del color como elemento clave del lenguaje visual y su capacidad para transmitir emociones y significados culturales. A través de actividades prácticas y de experimentación, el alumnado trabajará conceptos como el círculo cromático, los colores y los contrastes, comprendiendo su aplicación en las imágenes.</p>
+<p>El proyecto culmina con la creación de un mural colectivo sobre una figura del flamenco, integrando los conocimientos adquiridos mediante un trabajo cooperativo. Basada en metodologías activas como el aprendizaje por proyectos, la propuesta fomenta la creatividad, la colaboración y la reflexión sobre la relación entre arte, cultura e identidad, conectando el aprendizaje artístico con el entorno cultural cercano.<br></p>
+<span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">José Larios</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#fb04b9;color:#050505;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
